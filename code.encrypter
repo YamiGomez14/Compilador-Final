@@ -1,0 +1,5 @@
+main 
+{
+string  b="hola";
+int a=52;
+}
